@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 26
     buildToolsVersion '26.0.2'
     lintOptions {
         abortOnError false
@@ -61,8 +61,7 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.facebook.android:facebook-android-sdk:4.+'
-    compile 'com.android.support:support-v4:25.0.2-alpha1'
-    compile 'com.android.support:appcompat-v7:25.0.2-alpha1'
+    //compile 'com.android.support:appcompat-v7:25.0.2-alpha1'
     compile 'com.github.ybq:Android-SpinKit:1.0.4'
     compile 'com.mylhyl:acp:1.1.7'
     compile(name: 'AudienceNetwork', ext: 'aar')
