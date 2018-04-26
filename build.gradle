@@ -7,6 +7,7 @@ buildscript {
         }
         jcenter()
         mavenCentral()
+        google()
     }
     dependencies {
         classpath 'com.jakewharton:butterknife:6.0.0'
@@ -29,5 +30,6 @@ allprojects {
     repositories {
         jcenter()
         maven { url "https://jitpack.io" }
+        google()
     }
 }
