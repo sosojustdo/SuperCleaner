@@ -37,6 +37,15 @@ android {
             exclude 'META-INF/services/javax.annotation.processing.Processor'
         }
     }
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'armeabi-v7a','x86_64'
+            universalApk true
+        }
+    }
 }
 
 dependencies {
