@@ -187,6 +187,9 @@ public class PeripheralService extends Service {
 		mBluetoothDevices = new HashSet<>();
 		mBluetoothManager = (BluetoothManager) getSystemService(Context.BLUETOOTH_SERVICE);
 		mBluetoothAdapter = mBluetoothManager.getAdapter();
+		if(null == mBluetoothAdapter){
+			mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+		}
 
 		mTemperatureProfile = new TemperatureProfile();
 		mBluetoothGattService = mTemperatureProfile.getBluetoothGattService();
