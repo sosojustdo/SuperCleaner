@@ -10,6 +10,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.MobileAds;
 import com.mylhyl.acp.Acp;
 import com.mylhyl.acp.AcpListener;
 import com.mylhyl.acp.AcpOptions;
@@ -41,6 +42,8 @@ public class SplishActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splish);
+        //init admob
+        MobileAds.initialize(this, "ca-app-pub-2562592318387833~2691150287");
         mImageView = (ImageView) findViewById(R.id.image);
 
         int index = new Random().nextInt(2);
