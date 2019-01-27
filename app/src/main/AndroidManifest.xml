@@ -8,7 +8,7 @@
         android:required="true" />
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18"/>
     <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
     <uses-permission android:name="android.permission.GET_TASKS" />
@@ -165,9 +165,15 @@
             android:name="UMENG_CHANNEL"
             android:value="Channel ID" />
 
+        <meta-data android:name="applovin.sdk.key"
+            android:value="g4fS2OQ5tK067O6vTFObu69TvnT9OsLPpBXNZS1UoRfmJ1Put_33E_csTaJCIIElmH4XTH3J2-TTsdnWPZu1Su"/>
+
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-2562592318387833~2691150287"/>
+
+        <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" android:configChanges="orientation|screenSize"/>
 
         <service
             android:name="com.umeng.update.net.DownloadingService"
