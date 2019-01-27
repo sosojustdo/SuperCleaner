@@ -260,26 +260,25 @@ public class MainFragment extends BaseFragment {
     public void onEvent(BusEntity entity) {
 //        cpuProcess.setProgress((int) entity.temp);
         final int cpu_Final = (int) entity.temp;
+        try {
+            timer3.schedule(new TimerTask() {
+                @Override
+                public void run() {
+                    getActivity().runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            if (cpuProcess.getProgress() >= cpu_Final) {
+                                timer3.cancel();
+                            } else {
+                                cpuProcess.setProgress(cpuProcess.getProgress() + 1);
+                            }
 
-        timer3.schedule(new TimerTask() {
-            @Override
-            public void run() {
-                getActivity().runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-
-
-                        if (cpuProcess.getProgress() >= cpu_Final) {
-                            timer3.cancel();
-                        } else {
-                            cpuProcess.setProgress(cpuProcess.getProgress() + 1);
                         }
-
-                    }
-                });
-            }
-        }, 50, 20);
-
-
+                    });
+                }
+            }, 50, 20);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
 }
