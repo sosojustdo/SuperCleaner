@@ -58,7 +58,7 @@ public class SplishActivity extends BaseActivity {
         startService(new Intent(this, CoreService.class));
         startService(new Intent(this, CleanerService.class));
         if (!SharedPreferencesUtils.isShortCut(mContext)) {
-            createShortCut();
+            //createShortCut();
         }
 
         initAnim();
