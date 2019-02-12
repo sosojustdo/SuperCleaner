@@ -16,12 +16,11 @@ import com.facebook.ads.AdError;
 import com.facebook.ads.AdListener;
 import com.facebook.ads.MediaView;
 import com.facebook.ads.NativeAd;
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.facebook.ads.*;
 
 // cpu 加速界面
 public class AdvertisementActivity3 extends BaseSwipeBackActivity {

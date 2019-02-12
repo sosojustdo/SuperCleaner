@@ -15,7 +15,7 @@ import com.google.android.gms.ads.MobileAds;
 import com.mylhyl.acp.Acp;
 import com.mylhyl.acp.AcpListener;
 import com.mylhyl.acp.AcpOptions;
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.BaseActivity;
 import com.yunthink.supercleanmaster.service.CleanerService;
 import com.yunthink.supercleanmaster.service.CoreService;

@@ -17,11 +17,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
-import android.view.animation.AccelerateInterpolator;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.view.animation.LinearInterpolator;
-import android.view.animation.RotateAnimation;
 import android.view.animation.TranslateAnimation;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -36,7 +33,7 @@ import com.etiennelawlor.quickreturn.library.listeners.QuickReturnListViewOnScro
 import com.john.waveview.WaveView;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.adapter.ClearMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
@@ -45,7 +42,6 @@ import com.yunthink.supercleanmaster.service.CoreService;
 import com.yunthink.supercleanmaster.utils.BusEntity;
 import com.yunthink.supercleanmaster.utils.StorageUtil;
 import com.yunthink.supercleanmaster.utils.SystemBarTintManager;
-import com.yunthink.supercleanmaster.utils.T;
 import com.yunthink.supercleanmaster.utils.UIElementsHelper;
 
 import org.greenrobot.eventbus.EventBus;

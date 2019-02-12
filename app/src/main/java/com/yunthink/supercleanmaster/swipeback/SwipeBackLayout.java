@@ -13,7 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 
 import java.util.ArrayList;
 import java.util.List;

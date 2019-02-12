@@ -25,15 +25,13 @@ import android.widget.FrameLayout;
 
 import com.ikimuhendis.ldrawer.ActionBarDrawerToggle;
 import com.ikimuhendis.ldrawer.DrawerArrowDrawable;
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.ActivityTack;
 import com.yunthink.supercleanmaster.base.BaseActivity;
-
 import com.yunthink.supercleanmaster.fragment.MainFragment;
 import com.yunthink.supercleanmaster.fragment.NavigationDrawerFragment;
-import com.yunthink.supercleanmaster.fragment.RelaxFragment;
+//import com.yunthink.supercleanmaster.fragment.RelaxFragment;
 import com.yunthink.supercleanmaster.fragment.SettingsFragment;
-
 import com.yunthink.supercleanmaster.service.PeripheralService;
 import com.yunthink.supercleanmaster.utils.BusEntity;
 import com.yunthink.supercleanmaster.utils.SystemBarTintManager;
@@ -42,9 +40,6 @@ import com.yunthink.supercleanmaster.utils.UIElementsHelper;
 
 import org.greenrobot.eventbus.EventBus;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.Date;
 
 import butterknife.InjectView;
@@ -68,7 +63,7 @@ public class MainActivity extends BaseActivity implements NavigationDrawerFragme
     private View mFragmentContainerView;
 
     MainFragment mMainFragment;
-    RelaxFragment mRelaxFragment;
+    //RelaxFragment mRelaxFragment;
     public static final long TWO_SECOND = 2 * 1000;
     long preTime;
 
@@ -316,10 +311,11 @@ public class MainActivity extends BaseActivity implements NavigationDrawerFragme
         if (mMainFragment != null) {
             transaction.hide(mMainFragment);
         }
+        /**
         if (mRelaxFragment != null) {
             transaction.hide(mRelaxFragment);
         }
-
+         **/
     }
 
 

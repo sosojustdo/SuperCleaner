@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.FragmentContainerActivity;
 
 

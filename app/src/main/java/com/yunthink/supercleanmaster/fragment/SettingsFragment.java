@@ -8,15 +8,14 @@ import android.os.Bundle;
 import android.preference.Preference;
 import android.preference.PreferenceFragment;
 
+import com.superbooster.cleanup.R;
 import com.umeng.socialize.bean.RequestType;
 import com.umeng.socialize.controller.UMServiceFactory;
 import com.umeng.socialize.controller.UMSocialService;
 import com.umeng.socialize.weixin.controller.UMWXHandler;
-import com.yunthink.supercleanmaster.R;
 import com.yunthink.supercleanmaster.base.FragmentContainerActivity;
 import com.yunthink.supercleanmaster.ui.AboutActivity;
 import com.yunthink.supercleanmaster.ui.PrivacypolicyActivity;
-import com.yunthink.supercleanmaster.ui.SendEmailActivity;
 import com.yunthink.supercleanmaster.ui.TermsofuseActivity;
 import com.yunthink.supercleanmaster.utils.AppUtil;
 import com.yunthink.supercleanmaster.utils.T;

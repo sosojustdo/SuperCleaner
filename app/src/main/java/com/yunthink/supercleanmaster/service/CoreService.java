@@ -12,9 +12,8 @@ import android.os.Binder;
 import android.os.Handler;
 import android.os.IBinder;
 import android.text.format.Formatter;
-import android.widget.Toast;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
 import com.yunthink.supercleanmaster.utils.ProcessManager;
 

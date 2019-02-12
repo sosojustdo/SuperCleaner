@@ -9,7 +9,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.fragment.AutoStartFragment;
 import com.yunthink.supercleanmaster.model.AutoStartInfo;
 import com.yunthink.supercleanmaster.utils.ShellUtils;

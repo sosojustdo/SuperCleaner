@@ -7,12 +7,9 @@ import android.text.util.Linkify;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
-import com.yunthink.supercleanmaster.utils.AppUtil;
-import com.yunthink.supercleanmaster.utils.PhoneBrand;
 
 import butterknife.InjectView;
 

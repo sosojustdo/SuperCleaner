@@ -13,7 +13,7 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.adapter.AutoStartAdapter;
 import com.yunthink.supercleanmaster.base.BaseFragment;
 import com.yunthink.supercleanmaster.model.AutoStartInfo;

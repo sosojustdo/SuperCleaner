@@ -29,10 +29,9 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
-import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
+
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.adapter.RublishMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.model.CacheListItem;
@@ -42,11 +41,11 @@ import com.yunthink.supercleanmaster.utils.StorageUtil;
 import com.yunthink.supercleanmaster.utils.SystemBarTintManager;
 import com.yunthink.supercleanmaster.utils.UIElementsHelper;
 import com.yunthink.supercleanmaster.widget.textcounter.CounterView;
-import com.yunthink.supercleanmaster.widget.textcounter.formatters.DecimalFormatter;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+
 import butterknife.InjectView;
 import butterknife.OnClick;
 

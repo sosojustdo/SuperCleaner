@@ -36,7 +36,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 
 import java.text.NumberFormat;
 

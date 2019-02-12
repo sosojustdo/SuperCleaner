@@ -35,7 +35,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 
 public class RoundCornerProgressBar extends LinearLayout {	
 	private final static int DEFAULT_PROGRESS_BAR_HEIGHT = 30;

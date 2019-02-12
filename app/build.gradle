@@ -11,11 +11,11 @@ android {
         lintOptions { disable 'MissingTranslation', 'ExtraTranslation' }
     }
     defaultConfig {
-        applicationId "com.yunthink.supercleanmaster"
-        minSdkVersion 25
+        applicationId "com.superbooster.cleanup"
+        minSdkVersion 16
         targetSdkVersion 27
-        versionCode 3
-        versionName "1.0"
+        versionCode 4
+        versionName "4.0"
         javaCompileOptions {
             annotationProcessorOptions {
                 includeCompileClasspath true

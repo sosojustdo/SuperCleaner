@@ -10,7 +10,7 @@ import android.graphics.PixelFormat;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 
 
 public abstract class DrawerArrowDrawable extends Drawable {

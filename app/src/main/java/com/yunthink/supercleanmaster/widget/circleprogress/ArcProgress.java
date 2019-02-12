@@ -14,7 +14,7 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 
 
 /**

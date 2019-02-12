@@ -15,7 +15,7 @@ import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.yunthink.supercleanmaster.R;
+import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.fragment.SoftwareManageFragment;
 import com.yunthink.supercleanmaster.fragment.WeakFragmentPagerAdapter;
