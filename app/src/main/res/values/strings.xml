@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- sdk app id -->
+    <string name="admob_app_id">ca-app-pub-2562592318387833~2691150287</string>
+    <string name="applovin_sdk_key">g4fS2OQ5tK067O6vTFObu69TvnT9OsLPpBXNZS1UoRfmJ1Put_33E_csTaJCIIElmH4XTH3J2-TTsdnWPZu1Su</string>
+    <string name="facebook_app_id">360089281055474</string>
+
     <string name="app_name">Super Booster</string>
     <string name="short_cut_name">一键加速</string>
     <string name="hello_world">Hello world!</string>

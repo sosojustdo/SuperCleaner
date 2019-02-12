@@ -190,11 +190,11 @@
         </receiver>
 
         <!-- ads sdk info -->
-        <meta-data android:name="applovin.sdk.key"
-            android:value="g4fS2OQ5tK067O6vTFObu69TvnT9OsLPpBXNZS1UoRfmJ1Put_33E_csTaJCIIElmH4XTH3J2-TTsdnWPZu1Su"/>
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-2562592318387833~2691150287"/>
+        <meta-data android:name="applovin.sdk.key" android:value="@string/applovin_sdk_key"/>
+
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="@string/admob_app_id"/>
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
 
         <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" android:configChanges="orientation|screenSize"/>
         <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" android:configChanges="orientation|screenSize"/>
