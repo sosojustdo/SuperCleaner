@@ -44,7 +44,7 @@ public class SplishActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splish);
 
-        MobileAds.initialize(this, "ca-app-pub-2562592318387833~2691150287");
+        MobileAds.initialize(this, String.valueOf(R.string.admob_app_id));
         AppLovinSdk.initializeSdk(this.mContext);
 
         mImageView = (ImageView) findViewById(R.id.image);

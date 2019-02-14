@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import com.umeng.update.UmengUpdateAgent;
+
 import com.superbooster.cleanup.R;
 import com.yunthink.supercleanmaster.base.BaseFragment;
 import com.yunthink.supercleanmaster.model.SDCardInfo;
@@ -22,11 +22,14 @@ import com.yunthink.supercleanmaster.utils.BusEntity;
 import com.yunthink.supercleanmaster.utils.StorageUtil;
 import com.yunthink.supercleanmaster.utils.Utils;
 import com.yunthink.supercleanmaster.widget.circleprogress.ArcProgress;
+
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
+
 import java.util.Timer;
 import java.util.TimerTask;
+
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
@@ -137,7 +140,7 @@ public class MainFragment extends BaseFragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onActivityCreated(savedInstanceState);
-        UmengUpdateAgent.update(getActivity());
+        //UmengUpdateAgent.update(getActivity());
         EventBus.getDefault().register(this);
     }
 

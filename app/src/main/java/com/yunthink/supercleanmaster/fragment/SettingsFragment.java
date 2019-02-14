@@ -9,10 +9,6 @@ import android.preference.Preference;
 import android.preference.PreferenceFragment;
 
 import com.superbooster.cleanup.R;
-import com.umeng.socialize.bean.RequestType;
-import com.umeng.socialize.controller.UMServiceFactory;
-import com.umeng.socialize.controller.UMSocialService;
-import com.umeng.socialize.weixin.controller.UMWXHandler;
 import com.yunthink.supercleanmaster.base.FragmentContainerActivity;
 import com.yunthink.supercleanmaster.ui.AboutActivity;
 import com.yunthink.supercleanmaster.ui.PrivacypolicyActivity;
@@ -59,7 +55,7 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
 
         pAbout = findPreference("pAbout");
         pAbout.setOnPreferenceClickListener(this);
-        initData();
+        //initData();
     }
 
 
@@ -80,28 +76,18 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
         return false;
     }
 
-    private void shareMyApp() {
-
-        UMSocialService mController = UMServiceFactory.getUMSocialService("com.umeng.share", RequestType.SOCIAL);
-        mController.setShareContent("Supper Booster");
-        mController.openShare(getActivity(), false);
-
-    }
-
+    /**
     private void initData() {
         String appID = "wxa263da737a20300e";
         String appSecret = "381a2fab6466410c674afaa40c77c953";
-// 添加微信平台
+        // 添加微信平台
         UMWXHandler wxHandler = new UMWXHandler(getActivity(),appID,appSecret);
         wxHandler.addToSocialSDK();
-// 添加微信朋友圈
+        // 添加微信朋友圈
         UMWXHandler wxCircleHandler = new UMWXHandler(getActivity(),appID,appSecret);
         wxCircleHandler.setToCircle(true);
         wxCircleHandler.addToSocialSDK();
-
-
-
-    }
+    }**/
 
 
     private void createShortCut() {

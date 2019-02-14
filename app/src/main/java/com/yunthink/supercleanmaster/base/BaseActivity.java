@@ -8,9 +8,8 @@ import android.util.DisplayMetrics;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.umeng.analytics.MobclickAgent;
+//import com.umeng.analytics.MobclickAgent;
 import com.yunthink.supercleanmaster.dialogs.ProgressDialogFragment;
-import com.yunthink.supercleanmaster.service.PeripheralService;
 import com.yunthink.supercleanmaster.utils.T;
 
 import butterknife.ButterKnife;
@@ -139,11 +138,11 @@ public abstract class BaseActivity extends FragmentActivity {
 
     public void onResume() {
         super.onResume();
-        MobclickAgent.onResume(this);
+        //MobclickAgent.onResume(this);
     }
     public void onPause() {
         super.onPause();
-        MobclickAgent.onPause(this);
+        //MobclickAgent.onPause(this);
     }
 
 

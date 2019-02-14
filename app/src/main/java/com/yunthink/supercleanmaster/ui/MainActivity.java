@@ -30,7 +30,6 @@ import com.yunthink.supercleanmaster.base.ActivityTack;
 import com.yunthink.supercleanmaster.base.BaseActivity;
 import com.yunthink.supercleanmaster.fragment.MainFragment;
 import com.yunthink.supercleanmaster.fragment.NavigationDrawerFragment;
-//import com.yunthink.supercleanmaster.fragment.RelaxFragment;
 import com.yunthink.supercleanmaster.fragment.SettingsFragment;
 import com.yunthink.supercleanmaster.service.PeripheralService;
 import com.yunthink.supercleanmaster.utils.BusEntity;
@@ -63,7 +62,6 @@ public class MainActivity extends BaseActivity implements NavigationDrawerFragme
     private View mFragmentContainerView;
 
     MainFragment mMainFragment;
-    //RelaxFragment mRelaxFragment;
     public static final long TWO_SECOND = 2 * 1000;
     long preTime;
 
@@ -311,11 +309,6 @@ public class MainActivity extends BaseActivity implements NavigationDrawerFragme
         if (mMainFragment != null) {
             transaction.hide(mMainFragment);
         }
-        /**
-        if (mRelaxFragment != null) {
-            transaction.hide(mRelaxFragment);
-        }
-         **/
     }
 
 
