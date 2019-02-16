@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <PreferenceCategory android:title="@string/category_def">
+   <!-- <PreferenceCategory android:title="@string/category_def">
         <Preference
             android:key="createShortCut"
             android:title="@string/set_create" />
@@ -11,7 +11,7 @@
             android:enabled="false"
             android:summary="@string/isroot" />
 
-    </PreferenceCategory>
+    </PreferenceCategory>-->
 
 
     <PreferenceCategory android:title="@string/category_other">

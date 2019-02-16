@@ -25,7 +25,7 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
         FragmentContainerActivity.launch(from, SettingsFragment.class, null);
     }
 
-    private Preference createShortCut;
+//    private Preference createShortCut;
 
 
 
@@ -46,8 +46,8 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
         getActivity().getActionBar().setDisplayShowHomeEnabled(false);
         getActivity().getActionBar().setTitle(R.string.title_settings);
 
-        createShortCut = findPreference("createShortCut");
-        createShortCut.setOnPreferenceClickListener(this);
+//        createShortCut = findPreference("createShortCut");
+//        createShortCut.setOnPreferenceClickListener(this);
         pPrivacypolicy = findPreference("pPrivacypolicy");
         pPrivacypolicy.setOnPreferenceClickListener(this);
         pTermsofuse = findPreference("pTermsofuse");
@@ -62,9 +62,10 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
     @Override
     public boolean onPreferenceClick(Preference preference) {
 
-        if ("createShortCut".equals(preference.getKey())) {
-            createShortCut();
-        } else if ("pPrivacypolicy".equals(preference.getKey())) {
+//        if ("createShortCut".equals(preference.getKey())) {
+//            createShortCut();
+//        } else
+            if ("pPrivacypolicy".equals(preference.getKey())) {
             getActivity().startActivity(new Intent(getActivity(), PrivacypolicyActivity.class));
         }
         else if ("pTermsofuse".equals(preference.getKey())) {

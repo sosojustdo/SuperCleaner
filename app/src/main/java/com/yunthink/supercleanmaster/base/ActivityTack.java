@@ -46,7 +46,7 @@ public class ActivityTack {
 		while (activityList.size()>0) {
 			activityList.get(activityList.size()-1).finish();
 		}
-	    System.exit(0);
+	    //System.exit(0);
 	}
 	
 	

@@ -1,1 +1,2 @@
-include ':app', ':library', 'Ble', ':libsuperuser', 'bles', 'ble2', 'cpuwendu'
+//include ':app', ':library', 'Ble', ':libsuperuser', 'bles', 'ble2', 'cpuwendu'
+include ':app', ':library'
