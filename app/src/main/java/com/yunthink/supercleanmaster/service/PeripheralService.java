@@ -24,7 +24,7 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.utils.CpuTempReader;
 
 import java.util.Arrays;

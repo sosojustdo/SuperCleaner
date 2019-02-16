@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 
 // y=Asin(ωx+φ)+k

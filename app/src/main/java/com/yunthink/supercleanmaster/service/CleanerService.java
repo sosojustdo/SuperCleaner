@@ -19,7 +19,7 @@ import android.text.format.Formatter;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.model.CacheListItem;
 
 import java.lang.reflect.InvocationTargetException;

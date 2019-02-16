@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
 import com.yunthink.supercleanmaster.utils.StorageUtil;
 

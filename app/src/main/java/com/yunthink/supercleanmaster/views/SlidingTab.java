@@ -38,7 +38,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 import java.util.Locale;
 

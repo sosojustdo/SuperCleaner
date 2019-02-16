@@ -25,7 +25,7 @@ import android.widget.FrameLayout;
 
 import com.ikimuhendis.ldrawer.ActionBarDrawerToggle;
 import com.ikimuhendis.ldrawer.DrawerArrowDrawable;
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.ActivityTack;
 import com.yunthink.supercleanmaster.base.BaseActivity;
 import com.yunthink.supercleanmaster.fragment.MainFragment;

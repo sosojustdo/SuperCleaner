@@ -16,7 +16,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.BaseActivity;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
 import com.yunthink.supercleanmaster.service.CoreService;

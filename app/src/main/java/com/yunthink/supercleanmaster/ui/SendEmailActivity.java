@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.utils.AppUtil;
 

@@ -13,7 +13,7 @@ import android.os.Handler;
 import android.os.IBinder;
 import android.text.format.Formatter;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
 import com.yunthink.supercleanmaster.utils.ProcessManager;
 

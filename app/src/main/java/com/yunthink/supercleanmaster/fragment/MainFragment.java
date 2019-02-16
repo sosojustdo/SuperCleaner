@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.BaseFragment;
 import com.yunthink.supercleanmaster.model.SDCardInfo;
 import com.yunthink.supercleanmaster.ui.BatteryActivity;

@@ -2,7 +2,7 @@ package com.yunthink.supercleanmaster.utils;
 
 import android.content.Context;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

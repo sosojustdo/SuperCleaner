@@ -39,7 +39,7 @@ import android.widget.ImageView.ScaleType;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 public class IconRoundCornerProgressBar extends LinearLayout {	
 	private ImageView imageIcon;

@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.preference.Preference;
 import android.preference.PreferenceFragment;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.FragmentContainerActivity;
 import com.yunthink.supercleanmaster.ui.AboutActivity;
 import com.yunthink.supercleanmaster.ui.PrivacypolicyActivity;

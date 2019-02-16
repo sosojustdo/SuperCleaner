@@ -43,7 +43,7 @@ import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 import android.widget.RelativeLayout;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 
 public class RippleView extends RelativeLayout {

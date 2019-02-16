@@ -18,7 +18,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.adapter.SoftwareAdapter;
 import com.yunthink.supercleanmaster.base.BaseFragment;
 import com.yunthink.supercleanmaster.model.AppInfo;

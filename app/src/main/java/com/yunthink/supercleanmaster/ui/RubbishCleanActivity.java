@@ -31,7 +31,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.adapter.RublishMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.model.CacheListItem;

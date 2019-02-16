@@ -15,7 +15,7 @@ import com.google.android.gms.ads.MobileAds;
 import com.mylhyl.acp.Acp;
 import com.mylhyl.acp.AcpListener;
 import com.mylhyl.acp.AcpOptions;
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.base.BaseActivity;
 import com.yunthink.supercleanmaster.service.CleanerService;
 import com.yunthink.supercleanmaster.service.CoreService;
@@ -44,7 +44,7 @@ public class SplishActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splish);
 
-        MobileAds.initialize(this, String.valueOf(R.string.admob_app_id));
+        MobileAds.initialize(this, getResources().getString(R.string.admob_app_id));
         AppLovinSdk.initializeSdk(this.mContext);
 
         mImageView = (ImageView) findViewById(R.id.image);

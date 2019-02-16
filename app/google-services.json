@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:459519104844:android:17d54fd91bc7ae55",
         "android_client_info": {
-          "package_name": "com.superbooster.cleanup"
+          "package_name": "com.superbooster.cleaning"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "459519104844-fm6bdth43bcq943u3t0erepvt0jl58hr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.superbooster.cleanup",
+            "package_name": "com.superbooster.cleaning",
             "certificate_hash": "5fd33c0ddeaa50beb92000790ab491c5fb8557c2"
           }
         },

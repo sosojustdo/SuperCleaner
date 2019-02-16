@@ -6,7 +6,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 
 
 /**

@@ -7,7 +7,7 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.superbooster.cleanup.R;
+import com.superbooster.cleaning.R;
 import com.yunthink.supercleanmaster.widget.textcounter.formatters.CommaSeparatedDecimalFormatter;
 import com.yunthink.supercleanmaster.widget.textcounter.formatters.DecimalFormatter;
 import com.yunthink.supercleanmaster.widget.textcounter.formatters.IntegerFormatter;
