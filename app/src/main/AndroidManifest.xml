@@ -81,7 +81,6 @@
             android:theme="@style/TranslateThemeFull">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -156,26 +155,6 @@
             android:label="@string/settings_sendemail"
             android:screenOrientation="portrait"
             android:theme="@style/MyTranslucentAppTheme" />
-        <activity
-            android:name="com.yunthink.supercleanmaster.ui.AdvertisementActivity"
-            android:label="@string/advertising"
-            android:screenOrientation="portrait"
-            android:theme="@style/MyTranslucentAppTheme" />
-        <activity
-            android:name="com.yunthink.supercleanmaster.ui.AdvertisementActivity2"
-            android:label="@string/advertising"
-            android:screenOrientation="portrait"
-            android:theme="@style/MyTranslucentAppTheme" />
-        <activity
-            android:name="com.yunthink.supercleanmaster.ui.AdvertisementActivity3"
-            android:label="@string/advertising"
-            android:screenOrientation="portrait"
-            android:theme="@style/MyTranslucentAppTheme" />
-        <activity
-            android:name="com.yunthink.supercleanmaster.ui.AdvertisementActivity4"
-            android:label="@string/advertising"
-            android:screenOrientation="portrait"
-            android:theme="@style/MyTranslucentAppTheme" />
         <service
             android:name="com.yunthink.supercleanmaster.service.PeripheralService"
             android:exported="false" />
@@ -202,47 +181,6 @@
         <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" android:configChanges="orientation|screenSize"/>
         <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" android:configChanges="orientation|screenSize"/>
 
-        <!-- umeng info
-        <meta-data
-            android:name="UMENG_APPKEY"
-            android:value="54d9a36afd98c56d450008ab" />
-        <meta-data
-            android:name="UMENG_CHANNEL"
-            android:value="Channel ID" />
-
-        <service
-            android:name="com.umeng.update.net.DownloadingService"
-            android:process=":DownloadingService" />
-
-        <activity
-            android:name="com.umeng.update.UpdateDialogActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <activity
-            android:name="com.umeng.socialize.view.ShareActivity"
-            android:configChanges="orientation|keyboard"
-            android:launchMode="singleTask"
-            android:noHistory="true"
-            android:theme="@style/Theme.UMDialog"
-            android:windowSoftInputMode="stateVisible|adjustResize" />
-
-        <activity
-            android:name="com.tencent.tauth.AuthActivity"
-            android:launchMode="singleTask"
-            android:noHistory="true">
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="tencent100424468" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.tencent.connect.common.AssistActivity"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        -->
     </application>
 
 </manifest>

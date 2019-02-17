@@ -507,7 +507,7 @@ public class BatteryActivity extends BaseSwipeBackActivity implements OnDismissC
                 Intent intent = new Intent();
                 intent.putExtra("title", BatteryActivity.this.getString(R.string.phone_save_electricity));
                 intent.putExtra("content", BatteryActivity.this.getString(R.string.over_save));
-                intent.setClass(BatteryActivity.this, AdvertisementActivity4.class);
+                intent.setClass(BatteryActivity.this, MainActivity.class);
                 startActivity(intent);
                 BatteryActivity.this.finish();
             }

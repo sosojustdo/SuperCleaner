@@ -234,7 +234,7 @@ ImageView clean_Plan;
             Intent intent = new Intent();
             intent.putExtra("title", RubbishCleanActivity.this.getString(R.string.cache_clean));
             intent.putExtra("content", RubbishCleanActivity.this.getString(R.string.phone_clean));
-            intent.setClass(RubbishCleanActivity.this, AdvertisementActivity.class);
+            intent.setClass(RubbishCleanActivity.this, MainActivity.class);
             startActivity(intent);
             RubbishCleanActivity.this.finish();
             bottom_lin.setVisibility(View.GONE);
@@ -348,7 +348,7 @@ ImageView clean_Plan;
                 intent.putExtra("title", RubbishCleanActivity.this.getString(R.string.cache_clean));
                 intent.putExtra("content",RubbishCleanActivity.this.getString(R.string.cleaned, Formatter.formatShortFileSize(
                         mContext, cache_Nub)));
-                intent.setClass(RubbishCleanActivity.this, AdvertisementActivity.class);
+                intent.setClass(RubbishCleanActivity.this, MainActivity.class);
                 startActivity(intent);
                 RubbishCleanActivity.this.finish();
             }

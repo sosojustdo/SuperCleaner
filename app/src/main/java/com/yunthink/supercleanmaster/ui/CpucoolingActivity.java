@@ -390,7 +390,7 @@ public class CpucoolingActivity extends BaseSwipeBackActivity implements OnDismi
                 Intent intent = new Intent();
                 intent.putExtra("title", CpucoolingActivity.this.getString(R.string.cpucool));
                 intent.putExtra("content", CpucoolingActivity.this.getString(R.string.cpu_cooling_over));
-                intent.setClass(CpucoolingActivity.this, AdvertisementActivity3.class);
+                intent.setClass(CpucoolingActivity.this, MainActivity.class);
                 startActivity(intent);
                 CpucoolingActivity.this.finish();
             }

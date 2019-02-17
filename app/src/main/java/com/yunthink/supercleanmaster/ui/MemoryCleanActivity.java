@@ -343,7 +343,7 @@ public class MemoryCleanActivity extends BaseSwipeBackActivity implements OnDism
                 Intent intent = new Intent();
                 intent.putExtra("title", MemoryCleanActivity.this.getString(R.string.app_memory_clean));
                 intent.putExtra("content", MemoryCleanActivity.this.getString(R.string.complete_acceleration));
-                intent.setClass(MemoryCleanActivity.this, AdvertisementActivity2.class);
+                intent.setClass(MemoryCleanActivity.this, MainActivity.class);
                 startActivity(intent);
                 MemoryCleanActivity.this.finish();
             }
