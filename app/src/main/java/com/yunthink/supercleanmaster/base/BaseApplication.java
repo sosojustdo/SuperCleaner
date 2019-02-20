@@ -3,6 +3,8 @@ package com.yunthink.supercleanmaster.base;
 import android.app.Application;
 import android.content.Context;
 
+import com.facebook.ads.AudienceNetworkAds;
+
 import java.util.HashMap;
 
 public class BaseApplication extends Application {
@@ -21,6 +23,8 @@ public class BaseApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        // Initialize the Audience Network SDK
+        AudienceNetworkAds.initialize(this);
         mInstance = this;
         setAppli(this);
         mHashMap = new HashMap<String, Object>();

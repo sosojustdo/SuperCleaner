@@ -35,6 +35,7 @@ import com.john.waveview.WaveView;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
 import com.superbooster.cleaning.R;
+import com.yunthink.supercleanmaster.activitys.AdvertisementActivity2;
 import com.yunthink.supercleanmaster.adapter.ClearMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
@@ -343,7 +344,7 @@ public class MemoryCleanActivity extends BaseSwipeBackActivity implements OnDism
                 Intent intent = new Intent();
                 intent.putExtra("title", MemoryCleanActivity.this.getString(R.string.app_memory_clean));
                 intent.putExtra("content", MemoryCleanActivity.this.getString(R.string.complete_acceleration));
-                intent.setClass(MemoryCleanActivity.this, MainActivity.class);
+                intent.setClass(MemoryCleanActivity.this, AdvertisementActivity2.class);
                 startActivity(intent);
                 MemoryCleanActivity.this.finish();
             }

@@ -34,6 +34,7 @@ import com.john.waveview.WaveView;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
 import com.superbooster.cleaning.R;
+import com.yunthink.supercleanmaster.activitys.AdvertisementActivity3;
 import com.yunthink.supercleanmaster.adapter.ClearMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;
@@ -390,7 +391,7 @@ public class CpucoolingActivity extends BaseSwipeBackActivity implements OnDismi
                 Intent intent = new Intent();
                 intent.putExtra("title", CpucoolingActivity.this.getString(R.string.cpucool));
                 intent.putExtra("content", CpucoolingActivity.this.getString(R.string.cpu_cooling_over));
-                intent.setClass(CpucoolingActivity.this, MainActivity.class);
+                intent.setClass(CpucoolingActivity.this, AdvertisementActivity3.class);
                 startActivity(intent);
                 CpucoolingActivity.this.finish();
             }
