@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ble/Ble.iml" filepath="$PROJECT_DIR$/Ble/Ble.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperCleaner.iml" filepath="$PROJECT_DIR$/SuperCleaner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ble2/ble2.iml" filepath="$PROJECT_DIR$/ble2/ble2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bles/bles.iml" filepath="$PROJECT_DIR$/bles/bles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cpuwendu/cpuwendu.iml" filepath="$PROJECT_DIR$/cpuwendu/cpuwendu.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libsuperuser/libsuperuser.iml" filepath="$PROJECT_DIR$/libsuperuser/libsuperuser.iml" />
     </modules>
   </component>
 </project>
