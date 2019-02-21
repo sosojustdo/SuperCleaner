@@ -3,300 +3,3493 @@
 
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\umeng-update-v2.5.0.jar"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f4665675f55c9308a04851c8d30ca801126052c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f4665675f55c9308a04851c8d30ca801126052c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a88cdfe120246598e5fa381ad1ab9f4dfc1d9e33">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89baa4474a7f5f51b57383ade187e95117d11f56">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f4665675f55c9308a04851c8d30ca801126052c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f4665675f55c9308a04851c8d30ca801126052c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c9f3ce5a6ab66be0c6729f1004b1da44ad51adf4">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c9f3ce5a6ab66be0c6729f1004b1da44ad51adf4">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c9f3ce5a6ab66be0c6729f1004b1da44ad51adf4">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f53739bef890798f2445af7704756a9d6772441">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c9f3ce5a6ab66be0c6729f1004b1da44ad51adf4">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c102719c6d44ecef30669c0c900bf9d2fae3a5bf">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c102719c6d44ecef30669c0c900bf9d2fae3a5bf">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c102719c6d44ecef30669c0c900bf9d2fae3a5bf">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f5fc279ea84166d34a17e68caa13bc90d3ff7373">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
         sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\umeng-update-v2.5.0_3e1bcc5bc7fcf57ecc80313ed733d59e4687c5c0.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\umeng_social_sdk.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_51801536423eb0784ce66ebbe5c196d907cb7663\classes.dex" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/12.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\umeng_social_sdk.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="25.0.2"
-        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\umeng_social_sdk_51801536423eb0784ce66ebbe5c196d907cb7663.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_WeiXin_1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_16fa6d5b79817aba518d9294dfaf1424e62bf9ff\classes.dex" />
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/24.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_WeiXin_1.jar"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng-update-v2.5.0.jar"
         jumboMode="false"
+        min-sdk-version="25"
         optimize="true"
-        revision="25.0.2"
-        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_WeiXin_1_16fa6d5b79817aba518d9294dfaf1424e62bf9ff.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_laiwang_1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_laiwang_1_9cbf71c291adafd70799fd97f180333549ca41be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\umeng-update-v2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
         sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-update-v2.5.0_3e1bcc5bc7fcf57ecc80313ed733d59e4687c5c0\classes.dex" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/12.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_laiwang_2.jar"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng-update-v2.5.0.jar"
         jumboMode="false"
+        min-sdk-version="26"
         optimize="true"
-        revision="25.0.2"
-        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_laiwang_2_e564fee5d6c26b380fa7f4cfd4b52a597a39ccfc.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_laiwang_2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_laiwang_2_e564fee5d6c26b380fa7f4cfd4b52a597a39ccfc\classes.dex" />
+        revision="27.0.0"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/12.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\httpmime-4.1.3.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="25"
         optimize="true"
-        revision="25.0.2"
-        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\httpmime-4.1.3_948ed6342d09267d09f6082af299ad3de0aeae93.jar" />
+        revision="27.0.0"
+        sha1="b203f805346f927c9dbfa53a58164925511dfca5">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/49.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_Sina.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
+        revision="26.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b203f805346f927c9dbfa53a58164925511dfca5">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c102719c6d44ecef30669c0c900bf9d2fae3a5bf">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b203f805346f927c9dbfa53a58164925511dfca5">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="179f91735b58fc737f556ca976403017dbaa669c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c3d11251e765bfae9f194219abcf93bfe9649834">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="179f91735b58fc737f556ca976403017dbaa669c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="179f91735b58fc737f556ca976403017dbaa669c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="179f91735b58fc737f556ca976403017dbaa669c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e0b2b21da62712c5c80aadbd96d0d24c2e1b0f2a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ae242ef30734f361dfe0a942373470f40759ea60">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c0539226ae681579afad9bbdb4111ae24616ac9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec466d024148ba1bb325181625c9bb92e461d39b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7985990a08c892a2ab0c1d9987258e65ee0031dd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec466d024148ba1bb325181625c9bb92e461d39b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ae242ef30734f361dfe0a942373470f40759ea60">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec466d024148ba1bb325181625c9bb92e461d39b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7985990a08c892a2ab0c1d9987258e65ee0031dd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7985990a08c892a2ab0c1d9987258e65ee0031dd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7985990a08c892a2ab0c1d9987258e65ee0031dd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec466d024148ba1bb325181625c9bb92e461d39b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
         sha1="fd07c18d274be387922d55964e04cb418133c80f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_Sina_7e34a981f6dca3451a2bd860cbab8778e8a1586b.jar" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\httpmime-4.1.3.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd89b80fedbc0ab1734eeb6d4410bbd9a445160b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ae242ef30734f361dfe0a942373470f40759ea60">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a1c7ea6370bc1364761ba02579a810994b829b2">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ae242ef30734f361dfe0a942373470f40759ea60">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af51fb61a83ac9f5b21cb40b1b256fd9369dbd02">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a1464e41963d423a905858f43c7f037012c435d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
         sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_948ed6342d09267d09f6082af299ad3de0aeae93\classes.dex" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_WeiXin_2.jar"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
         jumboMode="false"
+        min-sdk-version="25"
         optimize="true"
-        revision="25.0.2"
-        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_WeiXin_2_098ffd9edb2e2af8e4a7726170b201266891ad5a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_WeiXin_2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_098ffd9edb2e2af8e4a7726170b201266891ad5a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_beebbda27ab59df68b2f1bc1b54e308d22c46522\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_02f60b426d2e01f2b7280ce06255874627c211d8\classes.dex" />
+        revision="27.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/15.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_3.jar"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
-        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_QQZone_3_02f60b426d2e01f2b7280ce06255874627c211d8.jar" />
+        revision="26.0.2"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/15.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
+        revision="26.0.2"
+        sha1="7985990a08c892a2ab0c1d9987258e65ee0031dd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
         sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_2_14c9424bf2966919974851425933381f6139a4ec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\王凯文\.android\build-cache\9c3e0e2cea17705aef1b520a2d7ef893636b3412\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41e879c74784ece312a525b9ed2bb75dd729c9e5\classes.dex" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\nineoldandroids-2.4.0.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_beebbda27ab59df68b2f1bc1b54e308d22c46522.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1840938fede81a61fa8a0609e012153a4fc81e0c">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3cc23b0c0dc669a5db99fd9b4a66812ea57cd31e\classes.dex" />
+        revision="27.0.0"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/17.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_2.jar"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
         sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_QQZone_2_14c9424bf2966919974851425933381f6139a4ec.jar" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\library\build\intermediates\bundles\default\classes.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
+        sha1="6c752c23f035ed57889f27bb3a4bff3a59386691">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6c752c23f035ed57889f27bb3a4bff3a59386691">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9d26b22d8fdb79fb91399aa64a428c2778062d6a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a1464e41963d423a905858f43c7f037012c435d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a1464e41963d423a905858f43c7f037012c435d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9d26b22d8fdb79fb91399aa64a428c2778062d6a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9d26b22d8fdb79fb91399aa64a428c2778062d6a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a1464e41963d423a905858f43c7f037012c435d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d26b22d8fdb79fb91399aa64a428c2778062d6a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
         sha1="596879db281f4adf63ec460638af91829402f297">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\classes_ddec8747cc6bf31fb04c87463bdb6dcd113f5c96.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_sms.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_sms_ba397c8cf47311ed52f5c5b8bb347cdbbcb6ffde\classes.dex" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/69.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_sms.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="25"
         optimize="true"
-        revision="25.0.2"
-        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_sms_ba397c8cf47311ed52f5c5b8bb347cdbbcb6ffde.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_Sina.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fd07c18d274be387922d55964e04cb418133c80f">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_7e34a981f6dca3451a2bd860cbab8778e8a1586b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_1_3a270bce905e9816f07f8dd619f5292c64c91a3a\classes.dex" />
+        revision="27.0.0"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/36.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_laiwang_1.jar"
+        jar="/Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c752c23f035ed57889f27bb3a4bff3a59386691">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a1464e41963d423a905858f43c7f037012c435d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-21.0.3.aar/f078eb956b712d00e3e672ea83ab511a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-21.0.3.aar/f078eb956b712d00e3e672ea83ab511a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6c752c23f035ed57889f27bb3a4bff3a59386691">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6c752c23f035ed57889f27bb3a4bff3a59386691">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-21.0.3.aar/f078eb956b712d00e3e672ea83ab511a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a88cdfe120246598e5fa381ad1ab9f4dfc1d9e33">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee0c24afa1128df37ea7942963cff97d1fb364">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="596879db281f4adf63ec460638af91829402f297">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-21.0.3.aar/f078eb956b712d00e3e672ea83ab511a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a88cdfe120246598e5fa381ad1ab9f4dfc1d9e33">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="596879db281f4adf63ec460638af91829402f297">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a88cdfe120246598e5fa381ad1ab9f4dfc1d9e33">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="596879db281f4adf63ec460638af91829402f297">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="596879db281f4adf63ec460638af91829402f297">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
         sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_laiwang_1_9cbf71c291adafd70799fd97f180333549ca41be.jar" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\libs\SocialSDK_QQZone_1.jar"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_1.jar"
         jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
-        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\SocialSDK_QQZone_1_3a270bce905e9816f07f8dd619f5292c64c91a3a.jar" />
+        revision="26.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/10.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\王凯文\.android\build-cache\9c3e0e2cea17705aef1b520a2d7ef893636b3412\output\jars\classes.jar"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="25.0.2"
+        revision="27.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee0c24afa1128df37ea7942963cff97d1fb364">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a88cdfe120246598e5fa381ad1ab9f4dfc1d9e33">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee0c24afa1128df37ea7942963cff97d1fb364">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae242ef30734f361dfe0a942373470f40759ea60">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3f53739bef890798f2445af7704756a9d6772441">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee0c24afa1128df37ea7942963cff97d1fb364">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3f53739bef890798f2445af7704756a9d6772441">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee0c24afa1128df37ea7942963cff97d1fb364">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c102719c6d44ecef30669c0c900bf9d2fae3a5bf">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec466d024148ba1bb325181625c9bb92e461d39b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89baa4474a7f5f51b57383ade187e95117d11f56">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89baa4474a7f5f51b57383ade187e95117d11f56">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89baa4474a7f5f51b57383ade187e95117d11f56">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89baa4474a7f5f51b57383ade187e95117d11f56">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-21.0.3.aar/f078eb956b712d00e3e672ea83ab511a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3f53739bef890798f2445af7704756a9d6772441">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3f53739bef890798f2445af7704756a9d6772441">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7c0539226ae681579afad9bbdb4111ae24616ac9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7c0539226ae681579afad9bbdb4111ae24616ac9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7c0539226ae681579afad9bbdb4111ae24616ac9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7c0539226ae681579afad9bbdb4111ae24616ac9">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c3d11251e765bfae9f194219abcf93bfe9649834">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="af51fb61a83ac9f5b21cb40b1b256fd9369dbd02">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9d26b22d8fdb79fb91399aa64a428c2778062d6a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a1c7ea6370bc1364761ba02579a810994b829b2">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b203f805346f927c9dbfa53a58164925511dfca5">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a1c7ea6370bc1364761ba02579a810994b829b2">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="179f91735b58fc737f556ca976403017dbaa669c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="af51fb61a83ac9f5b21cb40b1b256fd9369dbd02">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e0b2b21da62712c5c80aadbd96d0d24c2e1b0f2a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e0b2b21da62712c5c80aadbd96d0d24c2e1b0f2a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a1c7ea6370bc1364761ba02579a810994b829b2">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="af51fb61a83ac9f5b21cb40b1b256fd9369dbd02">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8a1c7ea6370bc1364761ba02579a810994b829b2">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="af51fb61a83ac9f5b21cb40b1b256fd9369dbd02">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e0b2b21da62712c5c80aadbd96d0d24c2e1b0f2a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c3d11251e765bfae9f194219abcf93bfe9649834">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c3d11251e765bfae9f194219abcf93bfe9649834">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e0b2b21da62712c5c80aadbd96d0d24c2e1b0f2a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c3d11251e765bfae9f194219abcf93bfe9649834">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f1cc70b7f97cffd0edca7317421c64f1fe9c4022">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f1cc70b7f97cffd0edca7317421c64f1fe9c4022">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45d16a6025776027a0c159553e4bba6c2ced1c19">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f1cc70b7f97cffd0edca7317421c64f1fe9c4022">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45d16a6025776027a0c159553e4bba6c2ced1c19">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f1cc70b7f97cffd0edca7317421c64f1fe9c4022">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45d16a6025776027a0c159553e4bba6c2ced1c19">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45d16a6025776027a0c159553e4bba6c2ced1c19">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd89b80fedbc0ab1734eeb6d4410bbd9a445160b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1447726bd89df72c319e7fcd21ad70821cf6d75a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd89b80fedbc0ab1734eeb6d4410bbd9a445160b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd89b80fedbc0ab1734eeb6d4410bbd9a445160b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/workspace_android/SuperCleaner/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd89b80fedbc0ab1734eeb6d4410bbd9a445160b">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/dbef76fc9773a4e1c75ea02b4d438a2f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
         sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\classes_41e879c74784ece312a525b9ed2bb75dd729c9e5.jar" />
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/28.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\王凯文\.android\build-cache\ab2db95cb3bf0432dc0c28fbec4179fbdf2b7150\output\jars\classes.jar"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/dbef76fc9773a4e1c75ea02b4d438a2f/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="26"
         optimize="true"
-        revision="25.0.2"
-        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\pre-dexed\release\classes_800791445b168acdfaaaffa93d328c6463bbac54.jar" />
+        revision="27.0.0"
+        sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/28.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\王凯文\.android\build-cache\ab2db95cb3bf0432dc0c28fbec4179fbdf2b7150\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/dbef76fc9773a4e1c75ea02b4d438a2f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
         optimize="true"
-        revision="25.0.2"
-        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_800791445b168acdfaaaffa93d328c6463bbac54\classes.dex" />
+        revision="27.0.0"
+        sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/28.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="G:\beifen2017_5_16\5-17\superCleanMaster-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84e517d12c71f30ade1a43b6fdc7ffcf32b424fc\classes.dex" />
+        revision="26.0.2"
+        sha1="f5fc279ea84166d34a17e68caa13bc90d3ff7373">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b203f805346f927c9dbfa53a58164925511dfca5">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f5fc279ea84166d34a17e68caa13bc90d3ff7373">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9f3ce5a6ab66be0c6729f1004b1da44ad51adf4">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccfd8bd656bfa92cfe66e8e9a58e1926ec36f4d0">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f5fc279ea84166d34a17e68caa13bc90d3ff7373">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f5fc279ea84166d34a17e68caa13bc90d3ff7373">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/dbef76fc9773a4e1c75ea02b4d438a2f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.0.aar/9634578a2d6c9841a641f2b13206dbd0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="785e4416af52b860f7c7adab802b143a0bac4d1d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.0.aar/9634578a2d6c9841a641f2b13206dbd0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="785e4416af52b860f7c7adab802b143a0bac4d1d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccfd8bd656bfa92cfe66e8e9a58e1926ec36f4d0">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.0.aar/9634578a2d6c9841a641f2b13206dbd0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="785e4416af52b860f7c7adab802b143a0bac4d1d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccfd8bd656bfa92cfe66e8e9a58e1926ec36f4d0">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1cc70b7f97cffd0edca7317421c64f1fe9c4022">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45d16a6025776027a0c159553e4bba6c2ced1c19">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccfd8bd656bfa92cfe66e8e9a58e1926ec36f4d0">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.0.aar/9634578a2d6c9841a641f2b13206dbd0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="785e4416af52b860f7c7adab802b143a0bac4d1d">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/dbef76fc9773a4e1c75ea02b4d438a2f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed84726b7302f88bc4133197f1d51fe7137c51fd">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccfd8bd656bfa92cfe66e8e9a58e1926ec36f4d0">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3e219a8deaa87ccce8553d68fe1820bef50ea6a7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3e219a8deaa87ccce8553d68fe1820bef50ea6a7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3e219a8deaa87ccce8553d68fe1820bef50ea6a7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3e219a8deaa87ccce8553d68fe1820bef50ea6a7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8982c2f5ee14894a5b8aba58e81472facc26cb16">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8982c2f5ee14894a5b8aba58e81472facc26cb16">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1447726bd89df72c319e7fcd21ad70821cf6d75a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8982c2f5ee14894a5b8aba58e81472facc26cb16">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1447726bd89df72c319e7fcd21ad70821cf6d75a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1447726bd89df72c319e7fcd21ad70821cf6d75a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8982c2f5ee14894a5b8aba58e81472facc26cb16">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4665675f55c9308a04851c8d30ca801126052c">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="26"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8982c2f5ee14894a5b8aba58e81472facc26cb16">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e219a8deaa87ccce8553d68fe1820bef50ea6a7">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1447726bd89df72c319e7fcd21ad70821cf6d75a">
+        <dex dex="/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/preDex/release/26.jar" />
     </item>
 
 </items>
