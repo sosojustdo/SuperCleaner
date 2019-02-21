@@ -58,7 +58,6 @@ build/
 .idea/vcs.xml
 *.iml
 .idea/*
-app/*
 library/*
 libsuperuser/*
 
