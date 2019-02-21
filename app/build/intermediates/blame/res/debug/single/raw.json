@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/raw/changelog.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/raw/changelog.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/raw/zlsu",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/raw/zlsu"
+    }
+]

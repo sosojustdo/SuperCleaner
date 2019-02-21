@@ -1,0 +1,150 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/values-bs/values-bs.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "2801",
+                        "endColumns": "100",
+                        "endOffsets": "2897"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "199",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1898",
+                        "endColumns": "199",
+                        "endOffsets": "2093"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,333,440,526,630,752,834,915,1001,1104,1209,1307,1412,1525,1628,1801,1898",
+                        "endColumns": "118,108,106,85,103,121,81,80,85,102,104,97,104,112,102,172,96,83",
+                        "endOffsets": "219,328,435,521,625,747,829,910,996,1099,1204,1302,1407,1520,1623,1796,1893,1977"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,333,440,526,630,752,834,915,1001,1104,1209,1307,1412,1525,1628,1801,2717",
+                        "endColumns": "118,108,106,85,103,121,81,80,85,102,104,97,104,112,102,172,96,83",
+                        "endOffsets": "219,328,435,521,625,747,829,910,996,1099,1204,1302,1407,1520,1623,1796,1893,2796"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,267,386,452,515,603,718",
+                        "endColumns": "69,118,65,62,87,114,69",
+                        "endOffsets": "266,385,451,514,602,717,787"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2098,2172,2295,2365,2432,2524,2643",
+                        "endColumns": "73,122,69,66,91,118,73",
+                        "endOffsets": "2167,2290,2360,2427,2519,2638,2712"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "2801",
+                        "endColumns": "100",
+                        "endOffsets": "2897"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "199",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1898",
+                        "endColumns": "199",
+                        "endOffsets": "2093"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,333,440,526,630,752,834,915,1001,1104,1209,1307,1412,1525,1628,1801,1898",
+                        "endColumns": "118,108,106,85,103,121,81,80,85,102,104,97,104,112,102,172,96,83",
+                        "endOffsets": "219,328,435,521,625,747,829,910,996,1099,1204,1302,1407,1520,1623,1796,1893,1977"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,333,440,526,630,752,834,915,1001,1104,1209,1307,1412,1525,1628,1801,2717",
+                        "endColumns": "118,108,106,85,103,121,81,80,85,102,104,97,104,112,102,172,96,83",
+                        "endOffsets": "219,328,435,521,625,747,829,910,996,1099,1204,1302,1407,1520,1623,1796,1893,2796"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,267,386,452,515,603,718",
+                        "endColumns": "69,118,65,62,87,114,69",
+                        "endOffsets": "266,385,451,514,602,717,787"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2098,2172,2295,2365,2432,2524,2643",
+                        "endColumns": "73,122,69,66,91,118,73",
+                        "endOffsets": "2167,2290,2360,2427,2519,2638,2712"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Feb 20 23:07:24 CST 2019
+1.base=/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/dexMerger/debug/0
+2.path=lib/armeabi/libbspatch.so
+0.baseType=DIRECTORY
+2.base=/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=classes2.dex

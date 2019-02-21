@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "989"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "998"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "989"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "998"
+                    }
+                },
+                {
+                    "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

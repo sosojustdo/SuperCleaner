@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/bg_png"
+    tools:context="com.yunthink.supercleanmaster.activitys.AdvertisementActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/title_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="160dp"
+
+        >
+        <LinearLayout
+            android:id="@+id/title_ll"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+            <LinearLayout
+                android:layout_marginLeft="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center"
+                >
+                <ImageView
+                    android:id="@+id/bck_gg"
+                    android:src="@mipmap/bck_w"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/title_gg"
+                android:text=""
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center"
+                >
+                <View
+
+                    android:layout_width="25dp"
+                    android:layout_height="25dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_below="@id/title_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_centerHorizontal="true"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/dui_img"/>
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:id="@+id/tv_content"
+                android:text=""
+                />
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/native_ad_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#fff"
+        android:orientation="vertical"/>
+
+</LinearLayout>

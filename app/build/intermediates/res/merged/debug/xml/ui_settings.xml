@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <!-- <PreferenceCategory android:title="@string/category_def">
+        <Preference
+            android:key="createShortCut"
+            android:title="@string/set_create" />
+        <SwitchPreference
+            android:key="powerClear"
+            android:title="@string/powerful_cleaning"
+            android:enabled="false"
+            android:summary="@string/isroot" />
+
+    </PreferenceCategory>-->
+
+
+    <PreferenceCategory android:title="@string/category_other">
+        <Preference
+            android:key="pPrivacypolicy"
+            android:title="@string/settings_privacypolicy" />
+        <Preference
+            android:key="pTermsofuse"
+            android:title="@string/settings_termsofuse"  />
+        <Preference
+            android:key="pAbout"
+            android:title="@string/settings_about" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

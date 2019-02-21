@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/back_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/back_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/dui_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/dui_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/qipao_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/qipao_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom7.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom7.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/bck_w.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/bck_w.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom4.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom4.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/cpu_sm.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/cpu_sm.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom1.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom1.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom9.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom9.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom6.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom6.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/cpu_fun.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/cpu_fun.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/cpu_xuehua.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/cpu_xuehua.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom3.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom3.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/cpu_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/cpu_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom2.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom2.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom8.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom8.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/besom5.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-mdpi/besom5.png"
+    }
+]

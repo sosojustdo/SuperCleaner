@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

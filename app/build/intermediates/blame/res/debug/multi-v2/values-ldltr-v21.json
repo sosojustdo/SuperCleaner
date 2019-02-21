@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

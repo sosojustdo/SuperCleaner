@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/welcome_fade_out.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/welcome_fade_out.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_fade_out.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/welcome_fade_in_scale.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/welcome_fade_in_scale.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/on_anim.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/on_anim.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/rotate_anim.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/rotate_anim.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_shareboard_animation_in.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_shareboard_animation_out.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_fade_in.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/cpu_funanim.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/cpu_funanim.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/overshoot_slide_footer_up.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/bundles/debug/res/anim/overshoot_slide_footer_up.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_slide_in_from_bottom.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/umeng_socialize_slide_out_from_bottom.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/besom_scan.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/besom_scan.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/out_anim.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/out_anim.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/overshoot_slide_header_down.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/bundles/debug/res/anim/overshoot_slide_header_down.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/welcome_fade_in.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/welcome_fade_in.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/down_xuehua.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/anim/down_xuehua.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/anticipate_slide_footer_down.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/bundles/debug/res/anim/anticipate_slide_footer_down.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/anim/anticipate_slide_header_up.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/bundles/debug/res/anim/anticipate_slide_header_up.xml"
+    }
+]

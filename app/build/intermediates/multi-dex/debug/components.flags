@@ -1,0 +1,119 @@
+-injars /Users/daipeng/workspace_android/SuperCleaner/app/libs/httpmime-4.1.3.jar(**.class)
+-injars /Users/daipeng/workspace_android/SuperCleaner/app/libs/nineoldandroids-2.4.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/libsuperuser-1.0.0.201811281328.aar/a4c8885b94af872bdb2b75e0f4473f6b/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/91356cd1652610fa095b8090480f4b37/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-manipulation-3.1.0.aar/6dcccef3dd6c558358032ad9514bbb55/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/lib-core-slh-3.1.0.aar/fe7a6ce0f3a3d01dfb8c75a04b2f07a7/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/b0077c4b3d925adae62b7d3c89b40b61/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-circular-1.0.0.aar/b1491560086c846dc1a6534d6d2488e1/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/dcc2f996c66b0a142444c9350ea0c8ca/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-9.2.1.0.aar/d9bbebb2d3cd47c1b1fe72fa358b4d87/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-5.1.1.0.aar/238e535c39f2a1cfe22dcb2b3a799d93/jars/classes.jar(**.class)
+-injars /Users/daipeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/278f10b52687ddfeb97bbafcc63d05ad/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/86b38aee165c2094cae283563d09a5c1/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f8fab983c4339b3f8cf7b6180026d408/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/4325e5d9ecad55fdf861e463427980dc/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/5404bcca94ec1fe739624251fbcbf2a3/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/8585c73200f9cb5fdcf4d9a598ffff92/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/c220e315f91f866b6be6528f606d3cdf/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/e8e0a5af90f9d72b97037e6a06d3326b/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/60280d3ee16d412e4efe4c00ad7b4379/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/d35a187d954cdd38cebdca3b26870f57/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/ae2196b3c5b923357e9e355be3abd4ae/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/1f8463e1e9694812b33a4946090c0d67/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2b0c7e5ebd0f54f1a9557051c29820e0/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/000368bc06a93b1153aa5af3bb2c4cb0/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha1/ec466d024148ba1bb325181625c9bb92e461d39b/collections-28.0.0-alpha1.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-28.0.0-alpha1.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/jars/classes.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /Users/daipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d945a8dd3ef1879615ce93224e45cb8d/jars/classes.jar(**.class)
+-injars /Users/daipeng/workspace_android/SuperCleaner/library/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/daipeng/Library/Android/sdk/build-tools/27.0.0/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# view AndroidManifest.xml #generated:80
+-keep class com.yunthink.supercleanmaster.base.BaseApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

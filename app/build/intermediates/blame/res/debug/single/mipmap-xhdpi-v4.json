@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/clean_phone.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/clean_phone.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/clean_star.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/clean_star.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/battery_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/battery_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/clean_plan.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/clean_plan.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/set_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/set_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/blue_success.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/blue_success.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/home_img.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/home_img.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cpu_round.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/cpu_round.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cpu_scan.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/cpu_scan.png"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cpu_success.png",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/mipmap-xhdpi/cpu_success.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_layout.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/res/layout-v14/changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-v14/changelogrow_material_layout.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_material_layout.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/res/layout-v14/changelogrowheader_material_layout.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout-v14/changelogrow_layout.xml",
+        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/223ff1b6a1d9b7d7dd81911a61a8c586/res/layout-v14/changelogrow_layout.xml"
+    }
+]
