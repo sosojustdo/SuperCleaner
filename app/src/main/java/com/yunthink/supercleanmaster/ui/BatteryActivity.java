@@ -34,7 +34,7 @@ import com.john.waveview.WaveView;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
 import com.superbooster.cleaning.R;
-import com.yunthink.supercleanmaster.activitys.AdvertisementActivity4;
+import com.yunthink.supercleanmaster.ads.AdvertisementActivity4;
 import com.yunthink.supercleanmaster.adapter.ClearMemoryAdapter;
 import com.yunthink.supercleanmaster.base.BaseSwipeBackActivity;
 import com.yunthink.supercleanmaster.bean.AppProcessInfo;

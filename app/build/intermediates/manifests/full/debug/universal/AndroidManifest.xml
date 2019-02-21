@@ -123,25 +123,25 @@
 
         <!-- ads activity -->
         <activity
-            android:name="com.yunthink.supercleanmaster.activitys.AdvertisementActivity"
+            android:name="com.yunthink.supercleanmaster.ads.AdvertisementActivity"
             android:hardwareAccelerated="true"
             android:label="@string/advertising"
             android:screenOrientation="portrait"
             android:theme="@style/MyTranslucentAppTheme" />
         <activity
-            android:name="com.yunthink.supercleanmaster.activitys.AdvertisementActivity2"
+            android:name="com.yunthink.supercleanmaster.ads.AdvertisementActivity2"
             android:hardwareAccelerated="true"
             android:label="@string/advertising"
             android:screenOrientation="portrait"
             android:theme="@style/MyTranslucentAppTheme" />
         <activity
-            android:name="com.yunthink.supercleanmaster.activitys.AdvertisementActivity3"
+            android:name="com.yunthink.supercleanmaster.ads.AdvertisementActivity3"
             android:hardwareAccelerated="true"
             android:label="@string/advertising"
             android:screenOrientation="portrait"
             android:theme="@style/MyTranslucentAppTheme" />
         <activity
-            android:name="com.yunthink.supercleanmaster.activitys.AdvertisementActivity4"
+            android:name="com.yunthink.supercleanmaster.ads.AdvertisementActivity4"
             android:hardwareAccelerated="true"
             android:label="@string/advertising"
             android:screenOrientation="portrait"

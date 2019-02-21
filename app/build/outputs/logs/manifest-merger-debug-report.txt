@@ -373,7 +373,7 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:109:13-57
 	android:name
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:106:13-78
-activity#com.yunthink.supercleanmaster.activitys.AdvertisementActivity
+activity#com.yunthink.supercleanmaster.ads.AdvertisementActivity
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:112:9-117:60
 	android:screenOrientation
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:115:13-49
@@ -384,8 +384,8 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 	android:theme
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:117:13-57
 	android:name
-		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:113:13-89
-activity#com.yunthink.supercleanmaster.activitys.AdvertisementActivity2
+		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:113:13-83
+activity#com.yunthink.supercleanmaster.ads.AdvertisementActivity2
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:118:9-123:60
 	android:screenOrientation
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:121:13-49
@@ -396,8 +396,8 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 	android:theme
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:123:13-57
 	android:name
-		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:119:13-90
-activity#com.yunthink.supercleanmaster.activitys.AdvertisementActivity3
+		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:119:13-84
+activity#com.yunthink.supercleanmaster.ads.AdvertisementActivity3
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:124:9-129:60
 	android:screenOrientation
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:127:13-49
@@ -408,8 +408,8 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 	android:theme
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:129:13-57
 	android:name
-		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:125:13-90
-activity#com.yunthink.supercleanmaster.activitys.AdvertisementActivity4
+		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:125:13-84
+activity#com.yunthink.supercleanmaster.ads.AdvertisementActivity4
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:130:9-135:60
 	android:screenOrientation
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:133:13-49
@@ -420,7 +420,7 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 	android:theme
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:135:13-57
 	android:name
-		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:131:13-90
+		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:131:13-84
 service#com.yunthink.supercleanmaster.service.PeripheralService
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:137:9-139:40
 	android:exported

@@ -90,7 +90,7 @@
 -printconfiguration /Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/multi-dex/debug/components.flags
 
 
-# view AndroidManifest.xml #generated:80
+# view AndroidManifest.xml #generated:31
 -keep class com.yunthink.supercleanmaster.base.BaseApplication {
     <init>(...);
 }
