@@ -25,6 +25,7 @@ public class BaseApplication extends Application {
         super.onCreate();
         // Initialize the Audience Network SDK
         AudienceNetworkAds.initialize(this);
+        AudienceNetworkAds.isInAdsProcess(this);
         mInstance = this;
         setAppli(this);
         mHashMap = new HashMap<String, Object>();

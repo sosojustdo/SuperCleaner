@@ -4,7 +4,7 @@
             "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/res/values-v24/values-v24.xml",
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -36,7 +36,7 @@
             "outputFile": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/res/values-v24/values-v24.xml",
+                    "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

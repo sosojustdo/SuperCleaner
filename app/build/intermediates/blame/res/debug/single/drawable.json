@@ -20,10 +20,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_title_right_bt_selected.png"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_auth_dialog_background.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/selector_tab_background.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/selector_tab_background.xml"
     },
@@ -92,10 +88,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/shape_progressbar_mini.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/res/drawable/messenger_button_blue_bg_round.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/tb_munion_item_selector.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/tb_munion_item_selector.xml"
     },
@@ -144,10 +136,6 @@
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/res/drawable/com_facebook_button_login_silver_background.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_ratingbar_indicator_material.xml"
     },
@@ -166,10 +154,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_left.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_title_tab_button_left.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/res/drawable/messenger_button_blue_bg_selector.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
@@ -202,10 +186,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_update_wifi_disable.png"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_favicon_blue.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_favicon_blue.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bg.9.png",
@@ -278,10 +258,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_normal.png",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_title_tab_right_normal.png"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_icon.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_right.xml",
@@ -400,24 +376,12 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/res/drawable/messenger_button_white_bg_round.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/background_tab.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_button_background.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_x_button.png",
@@ -440,20 +404,12 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_sidebar_selected.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_button_like_background.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_img.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/progress_horizontal_img.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_common_gradient_green.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_send_button_icon.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/res/drawable/com_facebook_send_button_icon.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shareboard_item_background.xml",
@@ -472,10 +428,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/btn_normal_green.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_logo.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/res/drawable/com_facebook_button_login_logo.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_cab_background_top_material.xml"
     },
@@ -486,10 +438,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_header_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
@@ -520,20 +468,12 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_sms_off.png"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/res/drawable/com_facebook_button_login_background.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/res/drawable/com_facebook_button_send_background.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",
@@ -646,10 +586,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_grey.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_shape_solid_grey.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/res/drawable/messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",

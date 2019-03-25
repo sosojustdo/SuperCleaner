@@ -5,6 +5,7 @@
     <string name="admob_app_id">ca-app-pub-1992114377194922~6630897278</string>
     <string name="applovin_sdk_key">g4fS2OQ5tK067O6vTFObu69TvnT9OsLPpBXNZS1UoRfmJ1Put_33E_csTaJCIIElmH4XTH3J2-TTsdnWPZu1Su</string>
     <string name="facebook_app_id">260685314852935</string>
+    <string name="fb_login_protocol_scheme">fb260685314852935</string>
 
     <string name="app_name">Super Booster</string>
     <string name="short_cut_name">一键加速</string>

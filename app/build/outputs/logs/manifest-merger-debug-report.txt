@@ -15,38 +15,26 @@ MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.0.0] /Us
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.ybq:Android-SpinKit:1.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/AndroidManifest.xml:2:1-12:12
 MERGED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:2:1-18:12
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/dcc2f996c66b0a142444c9350ea0c8ca/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:21:1-37:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/AndroidManifest.xml:17:1-23:12
 MERGED from [com.google.android.gms:play-services-ads:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/AndroidManifest.xml:17:1-25:12
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.ads.mediation:applovin:9.2.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-9.2.1.0.aar/d9bbebb2d3cd47c1b1fe72fa358b4d87/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:2:1-34:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.ads.mediation:facebook:5.1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-5.1.1.0.aar/238e535c39f2a1cfe22dcb2b3a799d93/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:21:1-35:12
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:21:1-53:12
-MERGED from [com.android.support:customtabs:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/278f10b52687ddfeb97bbafcc63d05ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cardview-v7:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/86b38aee165c2094cae283563d09a5c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f8fab983c4339b3f8cf7b6180026d408/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/dda167da3a6b24b12ca4480c61b0daf0/AndroidManifest.xml:17:1-23:12
@@ -64,6 +52,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/daipe
 MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bb620224a4c6ad54e5fa0655b9670b0/AndroidManifest.xml:17:1-22:12
@@ -99,10 +88,10 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:10:22-72
 uses-permission#android.permission.INTERNET
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:11:5-67
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:11:5-67
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:11:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:11:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:23:5-67
@@ -117,10 +106,10 @@ ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidMan
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:13:5-78
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:12:5-79
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:12:5-79
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:12:5-79
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:12:5-79
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:24:5-79
@@ -159,46 +148,32 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/daip
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d271b8cc9a36dc347561b3da373be874/AndroidManifest.xml:9:5-20
 MERGED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:11:5-16:19
 MERGED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:11:5-16:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:28:5-35:19
-MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:14:5-24:19
-MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:14:5-24:19
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:14:5-32:19
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:14:5-32:19
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:14:5-34:19
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:14:5-34:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:28:5-51:19
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:14:5-24:19
+MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:14:5-24:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:26:5-40:19
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:26:5-40:19
 MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:27:5-28:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:27:5-28:19
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/AndroidManifest.xml:22:5-26:19
-	android:supportsRtl
-		ADDED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:28:18-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:7:5-20
 	android:label
 		ADDED from /Users/daipeng/workspace_android/SuperCleaner/app/src/main/AndroidManifest.xml:26:9-41
 	android:hardwareAccelerated
@@ -509,16 +484,12 @@ MERGED from [com.github.ybq:Android-SpinKit:1.0.4] /Users/daipeng/.gradle/caches
 MERGED from [com.github.ybq:Android-SpinKit:1.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.0.4.aar/c74fa31f61f491c5a36d18b7e8b9cac9/AndroidManifest.xml:8:5-10:41
 MERGED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:7:5-9:41
 MERGED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/18685bb685b3386a59fd52f7e720c6a1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:multidex:1.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/dcc2f996c66b0a142444c9350ea0c8ca/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/dcc2f996c66b0a142444c9350ea0c8ca/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/a4bccb4370ea3376825522acdc7831e5/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/8ae6b39a8d6ddf815c31cd485cd6076c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-ads:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/158b33de0ab42dc37acae5ef1f951cfc/AndroidManifest.xml:21:5-23:62
@@ -527,52 +498,32 @@ MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/tran
 MERGED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.ads.mediation:applovin:9.2.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-9.2.1.0.aar/d9bbebb2d3cd47c1b1fe72fa358b4d87/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.ads.mediation:applovin:9.2.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-9.2.1.0.aar/d9bbebb2d3cd47c1b1fe72fa358b4d87/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.ads.mediation:facebook:5.1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-5.1.1.0.aar/238e535c39f2a1cfe22dcb2b3a799d93/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.ads.mediation:facebook:5.1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-5.1.1.0.aar/238e535c39f2a1cfe22dcb2b3a799d93/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/7b3f35f6e7d33f2135883ae4848a10f2/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/6d36ad28d054d07ac22ce2ea133123ec/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/bad04c22bdd6804bb47df27477719801/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:customtabs:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/278f10b52687ddfeb97bbafcc63d05ad/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/278f10b52687ddfeb97bbafcc63d05ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/e06de9423cb8bb2d9d690d20d4703a51/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/34ceb78adcef7f36af6603f23b1d41ef/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/865b4176aab3b374ce0b505fd0db389f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/0864615f57f7283f56a644325d8240c8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4c8a3a9355e3f14ae89bbebd6c4319f8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/7420e66a2050fc58686c27eb1406d364/AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/9956b3bc5d37e056830022eccd4a6351/AndroidManifest.xml:21:5-23:41
-MERGED from [com.android.support:cardview-v7:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/86b38aee165c2094cae283563d09a5c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/86b38aee165c2094cae283563d09a5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/4e1f546ca30bb7d6d6bf53c00985c238/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/26be6458cd967b3c09935b4a46db1eaf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f8fab983c4339b3f8cf7b6180026d408/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f8fab983c4339b3f8cf7b6180026d408/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/dd82e4d8c8f576621c8ae49df4f50064/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/57cf38b1bf08521805366dc94405fdd4/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/9291a510d81de1580b2ef713c6d4d626/AndroidManifest.xml:21:5-44
@@ -607,6 +558,8 @@ MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/daipeng/.gra
 MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/20b08b165380313298a12043fb435c32/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e05c7c670af5b89979c3a91487c1d2b3/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/05ca8fa7ffd88ed2b68b0c0b17dbd823/AndroidManifest.xml:5:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/524e48ab12a04da04740d193b876861c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37e33db99f1870d39595d82f8a4e2625/AndroidManifest.xml:20:5-44
@@ -643,94 +596,60 @@ ADDED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/fil
 		ADDED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:15:13-53
 	android:name
 		ADDED from [com.mylhyl:acp:1.1.7] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/acp-1.1.7.aar/d5354426a18b4ec32f965f800ec87e13/AndroidManifest.xml:13:13-54
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:29:9-32:66
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:18:13-37
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:17:13-74
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:19:13-72
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:30:13-57
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:33:9-71
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:16:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:20:9-25:75
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:24:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:22:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:25:13-72
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:33:19-68
-activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:34:9-67
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:21:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/65a2897e3a96969e9b9b6c739eb9fe3e/AndroidManifest.xml:34:19-64
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:28:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:30:9-33:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:33:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.2.1.aar/69d2dd5a02103511c52b35937d1fdef4/AndroidManifest.xml:31:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/cc949bdcae68a1f29b512b8dde37bf2d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eb0a6242b3b7aa32a296c5dc08f42deb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc55cfd078249621620d773feb1382e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:24:13-51
 activity#com.applovin.sdk.AppLovinWebViewActivity
 ADDED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:21:9-23:77
 	android:configChanges
 		ADDED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:23:13-74
 	android:name
 		ADDED from [com.applovin:applovin-sdk:9.2.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/applovin-sdk-9.2.1.aar/58d770ad59da2da38043eb7e6c597052/AndroidManifest.xml:22:13-68
-activity#com.facebook.ads.AudienceNetworkActivity
-ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:15:9-18:40
-	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:18:13-37
-	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:17:13-74
-	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:16:13-68
-activity#com.facebook.ads.internal.ipc.RemoteANActivity
-ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:19:9-23:39
-	android:process
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:23:13-36
-	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:22:13-37
-	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:21:13-74
-	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:20:13-74
-service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
-ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:25:9-27:40
-	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:26:13-83
-service#com.facebook.ads.internal.ipc.AdsMessengerService
-ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:28:9-31:39
-	android:process
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:31:13-36
-	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.1.1] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.1.1.aar/ae355a18f73b5bd0dc99311f2c1fa6fb/AndroidManifest.xml:29:13-77
-meta-data#android.support.VERSION
-ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:23:9-25:38
-	android:value
-		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:25:13-35
-	android:name
-		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/029957d2f0480c7e2e1b4e92ad31bbc6/AndroidManifest.xml:24:13-51
-provider#com.facebook.marketing.internal.MarketingInitProvider
-ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:29:9-32:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:31:13-73
-	android:exported
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/46023664947694c637f779794e6137bf/AndroidManifest.xml:30:13-81
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:41:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:42:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:40:13-70
-receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:44:9-50:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:46:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:45:13-86
-intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:47:13-49:29
-action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:48:17-95
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/c1a640173bcc711e2bdbd69b935ddbd3/AndroidManifest.xml:48:25-92
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/daipeng/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/454681c6e5caf1a610f9b409f559303a/AndroidManifest.xml:29:9-33:64
 	android:exported

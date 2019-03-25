@@ -39,6 +39,8 @@ public class AdvertisementActivity3 extends BaseSwipeBackActivity {
     TextView tv_title;
     TextView tv_content;
 
+    private static final String EMAIL = "email";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,7 +73,7 @@ public class AdvertisementActivity3 extends BaseSwipeBackActivity {
     }
 
     private void showNativeAd() {
-        nativeAd = new NativeAd(this, "360089281055474_371393043258431");
+        nativeAd = new NativeAd(this, "260685314852935_263250784596388");
         nativeAd.setAdListener(new NativeAdListener() {
 
             @Override

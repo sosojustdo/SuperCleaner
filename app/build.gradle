@@ -14,8 +14,8 @@ android {
         applicationId "com.superbooster.cleaning"
         minSdkVersion 16
         targetSdkVersion 27
-        versionCode 4
-        versionName "4"
+        versionCode 5
+        versionName "5"
         multiDexEnabled true
         javaCompileOptions {
             annotationProcessorOptions {
@@ -75,11 +75,15 @@ dependencies {
     implementation 'com.google.ads.mediation:applovin:9.2.1.0'
 
     //facebook
-    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
-    implementation 'com.android.support:recyclerview-v7:25.3.1'// Required by Facebook network
-    implementation 'com.facebook.android:audience-network-sdk:5.1.1'
-    implementation 'com.google.ads.mediation:facebook:5.1.1.0'
+    //compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+    //implementation 'com.android.support:recyclerview-v7:25.3.1'// Required by Facebook network
+    //implementation 'com.facebook.android:audience-network-sdk:5.1.1'
+    //implementation 'com.google.ads.mediation:facebook:5.1.1.0'
+    //implementation 'com.facebook.android:facebook-login:[4,5)'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.facebook.android:audience-network-sdk:5.+'
 }
+
 
 
 apply plugin: 'com.google.gms.google-services'

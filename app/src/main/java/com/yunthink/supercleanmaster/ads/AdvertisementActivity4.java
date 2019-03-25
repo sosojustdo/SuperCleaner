@@ -71,7 +71,7 @@ public class AdvertisementActivity4 extends BaseSwipeBackActivity {
     }
 
     private void showNativeAd() {
-        nativeAd = new NativeAd(this, "360089281055474_371393126591756");
+        nativeAd = new NativeAd(this, "260685314852935_263251051263028");
         nativeAd.setAdListener(new NativeAdListener() {
 
             @Override

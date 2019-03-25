@@ -8,32 +8,32 @@ package it.gmariotti.changelibs;
 
 public final class R {
     public static final class attr {
-        public static final int changeLogFileResourceId = 0x7f0100f9;
-        public static final int changeLogFileResourceUrl = 0x7f0100fa;
-        public static final int rowHeaderLayoutId = 0x7f0100f8;
-        public static final int rowLayoutId = 0x7f0100f7;
+        public static final int changeLogFileResourceId = 0x7f0100ee;
+        public static final int changeLogFileResourceUrl = 0x7f0100ef;
+        public static final int rowHeaderLayoutId = 0x7f0100ed;
+        public static final int rowLayoutId = 0x7f0100ec;
     }
     public static final class color {
-        public static final int chglib_background_default_divider_color = 0x7f0c0023;
-        public static final int chglib_material_background_default_divider_color = 0x7f0c0024;
-        public static final int chglib_material_color_text_1 = 0x7f0c0025;
-        public static final int chglib_material_color_text_2 = 0x7f0c0026;
-        public static final int chglib_material_color_text_3 = 0x7f0c0027;
+        public static final int chglib_background_default_divider_color = 0x7f0c001f;
+        public static final int chglib_material_background_default_divider_color = 0x7f0c0020;
+        public static final int chglib_material_color_text_1 = 0x7f0c0021;
+        public static final int chglib_material_color_text_2 = 0x7f0c0022;
+        public static final int chglib_material_color_text_3 = 0x7f0c0023;
     }
     public static final class dimen {
         public static final int chglib_material_keyline1 = 0x7f09000c;
-        public static final int chglib_material_list_fontsize = 0x7f090060;
-        public static final int chglib_material_list_suheader_fontsize = 0x7f090061;
+        public static final int chglib_material_list_fontsize = 0x7f09005d;
+        public static final int chglib_material_list_suheader_fontsize = 0x7f09005e;
         public static final int chglib_material_minHeight = 0x7f09000d;
-        public static final int listPreferredItemHeightSmall = 0x7f09008e;
+        public static final int listPreferredItemHeightSmall = 0x7f09007b;
     }
     public static final class id {
-        public static final int chg_headerDate = 0x7f0e00f6;
-        public static final int chg_headerVersion = 0x7f0e00f5;
-        public static final int chg_row = 0x7f0e00f1;
-        public static final int chg_rowheader = 0x7f0e00f4;
-        public static final int chg_text = 0x7f0e00f3;
-        public static final int chg_textbullet = 0x7f0e00f2;
+        public static final int chg_headerDate = 0x7f0e00eb;
+        public static final int chg_headerVersion = 0x7f0e00ea;
+        public static final int chg_row = 0x7f0e00e6;
+        public static final int chg_rowheader = 0x7f0e00e9;
+        public static final int chg_text = 0x7f0e00e8;
+        public static final int chg_textbullet = 0x7f0e00e7;
     }
     public static final class integer {
         public static final int font_textStyle_material_item = 0x7f0f0006;
@@ -48,16 +48,16 @@ public final class R {
         public static final int changelog = 0x7f070000;
     }
     public static final class string {
-        public static final int changelog_header_version = 0x7f080032;
-        public static final int changelog_internal_error_internet_connection = 0x7f080033;
-        public static final int changelog_internal_error_parsing = 0x7f080034;
-        public static final int changelog_row_bulletpoint = 0x7f080035;
-        public static final int changelog_row_prefix_bug = 0x7f080036;
-        public static final int changelog_row_prefix_improvement = 0x7f080037;
-        public static final int font_fontFamily_material_item = 0x7f0800a9;
+        public static final int changelog_header_version = 0x7f08001b;
+        public static final int changelog_internal_error_internet_connection = 0x7f08001c;
+        public static final int changelog_internal_error_parsing = 0x7f08001d;
+        public static final int changelog_row_bulletpoint = 0x7f08001e;
+        public static final int changelog_row_prefix_bug = 0x7f08001f;
+        public static final int changelog_row_prefix_improvement = 0x7f080020;
+        public static final int font_fontFamily_material_item = 0x7f080094;
     }
     public static final class styleable {
-        public static final int[] ChangeLogListView = { 0x7f0100f7, 0x7f0100f8, 0x7f0100f9, 0x7f0100fa };
+        public static final int[] ChangeLogListView = { 0x7f0100ec, 0x7f0100ed, 0x7f0100ee, 0x7f0100ef };
         public static final int ChangeLogListView_rowLayoutId = 0;
         public static final int ChangeLogListView_rowHeaderLayoutId = 1;
         public static final int ChangeLogListView_changeLogFileResourceId = 2;
