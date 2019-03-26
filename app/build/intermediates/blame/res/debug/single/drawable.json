@@ -200,10 +200,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/tb_munion_icon.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_list_divider_material.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_list_divider_material.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_vector_test.xml"
     },
@@ -310,10 +306,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_on.png",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_qzone_on.png"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_selected.png",
@@ -436,10 +428,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_button_grey_blue.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_shape_solid_black.xml"
     },
@@ -470,10 +458,6 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",

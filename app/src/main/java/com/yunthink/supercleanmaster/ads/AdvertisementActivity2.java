@@ -109,7 +109,7 @@ public class AdvertisementActivity2 extends BaseSwipeBackActivity {
         // Request an ad
         nativeAd.loadAd();
         // Please call this method at appropriate timing in your project
-        showNativeAdWithDelay();
+        //showNativeAdWithDelay();
     }
 
     private void showNativeAdWithDelay() {

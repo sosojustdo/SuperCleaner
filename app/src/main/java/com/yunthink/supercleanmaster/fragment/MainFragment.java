@@ -27,8 +27,8 @@ import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 
-import java.util.Timer;
-import java.util.TimerTask;
+import java.util.concurrent.ScheduledThreadPoolExecutor;
+import java.util.concurrent.TimeUnit;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
@@ -49,9 +49,11 @@ public class MainFragment extends BaseFragment {
 
     Context mContext;
 
-    private Timer timer;
-    private Timer timer2;
-    private Timer timer3;
+    private int coreSize = Runtime.getRuntime().availableProcessors();
+    private ScheduledThreadPoolExecutor timer = new ScheduledThreadPoolExecutor(coreSize);
+    private ScheduledThreadPoolExecutor timer2 = new ScheduledThreadPoolExecutor(coreSize);
+    private ScheduledThreadPoolExecutor timer3 = new ScheduledThreadPoolExecutor(coreSize);
+
     @InjectView(R.id.card1)
     RelativeLayout c1_js;
     @InjectView(R.id.card2)
@@ -60,13 +62,6 @@ public class MainFragment extends BaseFragment {
     RelativeLayout c3_cpu;
     @InjectView(R.id.card4)
     RelativeLayout c4_dc;
-
-    public static final String SYS_EMUI = "sys_emui";
-    public static final String SYS_MIUI = "sys_miui";
-    public static final String SYS_FLYME = "sys_flyme";
-
-    public static final int MIN_CLICK_DELAY_TIME = 1000;
-    private long lastClickTime = 0;
 
 
     @Override
@@ -140,41 +135,33 @@ public class MainFragment extends BaseFragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onActivityCreated(savedInstanceState);
-        //UmengUpdateAgent.update(getActivity());
         EventBus.getDefault().register(this);
     }
 
     private void fillData() {
         // TODO Auto-generated method stub
-        timer = null;
-        timer2 = null;
-        timer3 = null;
-        timer = new Timer();
-        timer2 = new Timer();
-        timer3 = new Timer();
-
         long l = AppUtil.getAvailMemory(mContext);
         long y = AppUtil.getTotalMemory(mContext);
         final double x = (((y - l) / (double) y) * 100);
 
         arcProcess.setProgress(0);
-        timer.schedule(new TimerTask() {
+        timer.scheduleAtFixedRate(new Runnable() {
             @Override
             public void run() {
                 getActivity().runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        if (arcProcess.getProgress() >= (int) x) {
-                            timer.cancel();
-                        } else {
-                            arcProcess.setProgress(arcProcess.getProgress() + 1);
+                        if(null != arcProcess && null != arcProcess.getProgress()){
+                            if (arcProcess.getProgress() >= (int) x) {
+                                //timer.cancel();
+                            } else {
+                                arcProcess.setProgress(arcProcess.getProgress() + 1);
+                            }
                         }
-
                     }
                 });
             }
-        }, 50, 20);
-
+        },50, 20, TimeUnit.MILLISECONDS);
 
         SDCardInfo mSDCardInfo = StorageUtil.getSDCardInfo();
         SDCardInfo mSystemInfo = StorageUtil.getSystemSpaceInfo(mContext);
@@ -195,55 +182,25 @@ public class MainFragment extends BaseFragment {
         arcStore.setProgress(0);
         cpuProcess.setProgress(0);
 
-
-        timer2.schedule(new TimerTask() {
+        timer2.scheduleAtFixedRate(new Runnable() {
             @Override
             public void run() {
                 getActivity().runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        if (arcStore.getProgress() >= (int) percentStore) {
-                            Log.e("kevin", "" + percentStore);
-                            timer2.cancel();
-                        } else {
-                            arcStore.setProgress(arcStore.getProgress() + 1);
+                        if(null != arcStore && null != arcStore.getProgress()){
+                            if (arcStore.getProgress() >= (int) percentStore) {
+                                Log.e("kevin", "" + percentStore);
+                                //timer2.cancel();
+                            } else {
+                                arcStore.setProgress(arcStore.getProgress() + 1);
+                            }
                         }
-
                     }
                 });
             }
-        }, 50, 20);
+        }, 50, 20, TimeUnit.MILLISECONDS);
     }
-
-/*    @OnClick(R.id.card1)
-    void speedUp() {
-
-
-//        Toast
-        String xh = PhoneBrand.getSystem();
-//        Toast.makeText(AboutActivity.this,""+xh,Toast.LENGTH_LONG).show();
-//        if(xh!=SYS_MIUI ){
-        startActivity(MemoryCleanActivity.class);
-
-
-    }*/
-
-//
-//    @OnClick(R.id.card2)
-//    void rubbishClean() {
-//        startActivity(RubbishCleanActivity.class);
-//    }
-//
-//
-//    @OnClick(R.id.card3)
-//    void AutoStartManage() {
-//        startActivity(CpucoolingActivity.class);
-//    }
-//
-//    @OnClick(R.id.card4)
-//    void SoftwareManage() {
-//        startActivity(BatteryActivity.class);
-//    }
 
     @Override
     public void onDestroyView() {
@@ -254,34 +211,32 @@ public class MainFragment extends BaseFragment {
     @Override
     public void onDestroy() {
         EventBus.getDefault().unregister(this);
-        timer.cancel();
-        timer2.cancel();
+        timer.shutdown();
+        timer2.shutdown();
+        timer3.shutdown();
         super.onDestroy();
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onEvent(BusEntity entity) {
-//        cpuProcess.setProgress((int) entity.temp);
+        //cpuProcess.setProgress((int) entity.temp);
         final int cpu_Final = (int) entity.temp;
-        try {
-            timer3.schedule(new TimerTask() {
-                @Override
-                public void run() {
-                    getActivity().runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
+        timer3.scheduleAtFixedRate(new Runnable() {
+            @Override
+            public void run() {
+                getActivity().runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if(null != cpuProcess && null != cpuProcess.getProgress()){
                             if (cpuProcess.getProgress() >= cpu_Final) {
-                                timer3.cancel();
+                                //timer3.shutdown();
                             } else {
                                 cpuProcess.setProgress(cpuProcess.getProgress() + 1);
                             }
-
                         }
-                    });
-                }
-            }, 50, 20);
-        }catch (Exception e){
-            e.printStackTrace();
-        }
+                    }
+                });
+            }
+        }, 50, 20, TimeUnit.MILLISECONDS);
     }
 }

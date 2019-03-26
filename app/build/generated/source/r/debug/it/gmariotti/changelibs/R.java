@@ -25,24 +25,24 @@ public final class R {
         public static final int chglib_material_list_fontsize = 0x7f09005d;
         public static final int chglib_material_list_suheader_fontsize = 0x7f09005e;
         public static final int chglib_material_minHeight = 0x7f09000d;
-        public static final int listPreferredItemHeightSmall = 0x7f09007b;
+        public static final int listPreferredItemHeightSmall = 0x7f090078;
     }
     public static final class id {
-        public static final int chg_headerDate = 0x7f0e00eb;
-        public static final int chg_headerVersion = 0x7f0e00ea;
-        public static final int chg_row = 0x7f0e00e6;
-        public static final int chg_rowheader = 0x7f0e00e9;
-        public static final int chg_text = 0x7f0e00e8;
-        public static final int chg_textbullet = 0x7f0e00e7;
+        public static final int chg_headerDate = 0x7f0e00ec;
+        public static final int chg_headerVersion = 0x7f0e00eb;
+        public static final int chg_row = 0x7f0e00e7;
+        public static final int chg_rowheader = 0x7f0e00ea;
+        public static final int chg_text = 0x7f0e00e9;
+        public static final int chg_textbullet = 0x7f0e00e8;
     }
     public static final class integer {
         public static final int font_textStyle_material_item = 0x7f0f0006;
     }
     public static final class layout {
-        public static final int changelogrow_layout = 0x7f04002a;
-        public static final int changelogrow_material_layout = 0x7f04002b;
-        public static final int changelogrowheader_layout = 0x7f04002c;
-        public static final int changelogrowheader_material_layout = 0x7f04002d;
+        public static final int changelogrow_layout = 0x7f04002b;
+        public static final int changelogrow_material_layout = 0x7f04002c;
+        public static final int changelogrowheader_layout = 0x7f04002d;
+        public static final int changelogrowheader_material_layout = 0x7f04002e;
     }
     public static final class raw {
         public static final int changelog = 0x7f070000;

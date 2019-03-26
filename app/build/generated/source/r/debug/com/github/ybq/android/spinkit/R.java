@@ -9,8 +9,8 @@ package com.github.ybq.android.spinkit;
 public final class R {
     public static final class attr {
         public static final int SpinKitViewStyle = 0x7f010000;
-        public static final int SpinKit_Color = 0x7f010181;
-        public static final int SpinKit_Style = 0x7f010180;
+        public static final int SpinKit_Color = 0x7f01017c;
+        public static final int SpinKit_Style = 0x7f01017b;
     }
     public static final class id {
         public static final int ChasingDots = 0x7f0e0054;
@@ -64,7 +64,7 @@ public final class R {
         public static final int SpinKitView_Wave = 0x7f0a00fd;
     }
     public static final class styleable {
-        public static final int[] SpinKitView = { 0x7f010180, 0x7f010181 };
+        public static final int[] SpinKitView = { 0x7f01017b, 0x7f01017c };
         public static final int SpinKitView_SpinKit_Style = 0;
         public static final int SpinKitView_SpinKit_Color = 1;
     }

@@ -127,14 +127,16 @@
                 style="@style/Label.Shadow.Medium"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/subVersion"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/subVersion"
                 android:layout_gravity="center"
-                android:layout_marginTop="20.0dip"
+                android:layout_marginTop="20dp"
                 android:duplicateParentState="true"
                 android:linksClickable="true"
+                android:paddingBottom="5dip"
                 android:paddingLeft="10.0dip"
                 android:paddingRight="10.0dip"
-                android:paddingBottom="5dip"
                 android:paddingTop="5dip"
                 android:singleLine="false"
                 android:text="Email : daipeng.456@163.com"
@@ -150,8 +152,6 @@
                 android:clickable="true"
                 android:focusable="true"
                 android:orientation="horizontal">
-
-
             </LinearLayout>
 
             <LinearLayout
@@ -161,7 +161,6 @@
                 android:clickable="true"
                 android:focusable="true"
                 android:orientation="horizontal">
-
             </LinearLayout>
 
             <TextView

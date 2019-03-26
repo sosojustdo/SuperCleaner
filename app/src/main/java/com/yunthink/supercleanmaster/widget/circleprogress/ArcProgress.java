@@ -32,7 +32,7 @@ public class ArcProgress extends View {
 	private String bottomText;
 	private float textSize;
 	private int textColor;
-	private int progress = 0;
+	private Integer progress = 0;
 	private int max;
 	private int finishedStrokeColor;
 	private int unfinishedStrokeColor;
@@ -181,7 +181,7 @@ public class ArcProgress extends View {
 		this.invalidate();
 	}
 
-	public int getProgress() {
+	public Integer getProgress() {
 		return progress;
 	}
 

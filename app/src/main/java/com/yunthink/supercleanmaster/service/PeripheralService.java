@@ -239,7 +239,7 @@ public class PeripheralService extends Service {
 	public void startServer() {
 		mGattServer = mBluetoothManager.openGattServer(this, mGattServerCallback);
 		if (mGattServer == null) {
-			if (!mBluetoothAdapter.isEnabled()) {
+			if (null != mBluetoothAdapter && !mBluetoothAdapter.isEnabled()) {
 				updateConnectionStatus(getString(R.string.please_enable_bluetooth));
 			}
 			return;
@@ -248,7 +248,7 @@ public class PeripheralService extends Service {
 		// are present by default).
 		mGattServer.addService(mBluetoothGattService);
 
-		if (mBluetoothAdapter.isMultipleAdvertisementSupported()) {
+		if (null != mBluetoothAdapter && mBluetoothAdapter.isMultipleAdvertisementSupported()) {
 			mAdvertiser = mBluetoothAdapter.getBluetoothLeAdvertiser();
 			mAdvertiser.startAdvertising(mAdvSettings, mAdvData, mAdvCallback);
 			Log.d(TAG, "=== startAdvertising ===");

@@ -88,10 +88,6 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/fragment_auto_start.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/layout/abc_action_menu_layout.xml"
     },
@@ -232,16 +228,8 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/activity_cpucooling.xml"
     },
     {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/layout/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/umeng_bak_platform_item_simple.xml",
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/umeng_bak_platform_item_simple.xml"
-    },
-    {
-        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -304,6 +292,10 @@
         "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/activity_termsofuse.xml"
     },
     {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/banner_activity_main.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/banner_activity_main.xml"
+    },
+    {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/d2c602d1f28bee5a30ea9f0fc5890e70/res/layout/abc_search_view.xml"
     },
@@ -358,6 +350,10 @@
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/daipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/58bd659c1276ab748a04f2cf9b7ec87f/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/interstitial_activity_main.xml",
+        "source": "/Users/daipeng/workspace_android/SuperCleaner/app/src/main/res/layout/interstitial_activity_main.xml"
     },
     {
         "merged": "/Users/daipeng/workspace_android/SuperCleaner/app/build/intermediates/res/merged/debug/layout/umeng_bak_at_list.xml",
